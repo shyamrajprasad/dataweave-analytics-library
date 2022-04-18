@@ -26,3 +26,6 @@ A DataWeave library is a reusable package of DataWeave module and mapping files,
 * Validate the dataweave library in anypoint exchange.
 * Copy the dependency snippets of dataweave library and use in sample anypoint studio project to test the dataweave module.
 * Also try to run, debug and test your module, mapping, unit test and integration test in vs code.  
+
+**References**
+https://www.linkedin.com/pulse/dataweave-library-extension-shyam-raj-prasad/
