@@ -28,4 +28,4 @@ A DataWeave library is a reusable package of DataWeave module and mapping files,
 * Also try to run, debug and test your module, mapping, unit test and integration test in vs code.  
 
 **References**
-https://www.linkedin.com/pulse/dataweave-library-extension-shyam-raj-prasad/
+https://shyamrajprasad.medium.com/dataweave-library-extension-33e435c62280
